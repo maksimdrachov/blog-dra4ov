@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-
-
 <div style="text-align:center"><img src="../photos/my-photo.jpg" alt="drawing" width="400"/></div>
 
 Hi,
