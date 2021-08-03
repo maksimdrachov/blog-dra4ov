@@ -8,6 +8,7 @@
 // This style sheet implements two options for the minima.skin setting:
 // "solarized" for light mode and "solarized-dark" for dark mode.
 $sol-is-dark: false !default;
+$sol-is-red: false !default;
 
 
 // Color scheme
@@ -31,6 +32,19 @@ $sol-blue:     #268bd2;  // 55 -10 -45
 $sol-cyan:     #2aa198;  // 60 -35 -05
 $sol-green:    #859900;  // 60 -20  65
 
+$sol-bistre:   #261202;  // RGB: 38 18 2      BACKGROUND
+$sol-gold:     #786f52;  // RGB: 120 111 82   TEXT
+$sol-indigo:   #284b63;  // RGB: 40 75 99     LINK(PRESSED BEFORE)
+$sol-bone:     #d1d3c4;  // RGB: 209 211 196  LINK(UNPRESSED)
+$sol-upsdell:  #cc1228;  // RGB: 175 17 36    TITLE
+$sol-link: #f79292;
+$sol-black:      #000000;
+$sol-code:      #696969;
+$sol-grey:      #b5b5b5;
+$sol-test:     #E7F9A9;
+
+      
+
 $sol-mono3:    $sol-base3;
 $sol-mono2:    $sol-base2;
 $sol-mono1:    $sol-base1;
@@ -45,10 +59,46 @@ $sol-mono01:   $sol-base01;
   $sol-mono01: $sol-base1;
 }
 
+// Personal blog theme
+// maksim.drachov@outlook.com
+@if $sol-is-red {
+  $sol-mono3:  $sol-black;     //Background[black]
+  $sol-mono2:  $sol-code;       //Code background[grey]
+  $sol-mono1:  $sol-upsdell;     //date blog+small lines (best same as solo-mono00)[red]
+  $sol-mono00: $sol-upsdell;     //Link hover color+title website+upper line[red]
+  $sol-mono01: $sol-upsdell;        //Text (main)[greyish white]+about
+  //title blog
+}
+
 
 // Minima color variables
 // ----------------------
 
+/* $brand-color:           $sol-mono1 !default;
+$brand-color-light:     mix($sol-mono1, $sol-mono3) !default;
+$brand-color-dark:      $sol-mono00 !default;
+
+$site-title-color:      $sol-mono00 !default;
+
+$text-color:            $sol-mono01 !default;
+$background-color:      $sol-mono3 !default;
+$code-background-color: $sol-mono2 !default;
+
+$link-base-color:       $sol-bone !default; // CHANGED
+$link-visited-color:    $sol-indigo !default; //CHANGED
+$link-hover-color:      $sol-mono00 !default;
+
+$border-color-01:       $brand-color-light !default;
+$border-color-02:       $sol-mono1 !default;
+$border-color-03:       $sol-mono00 !default;
+
+$table-text-color:      $sol-mono00 !default;
+$table-zebra-color:     mix($sol-mono2, $sol-mono3) !default;
+$table-header-bg-color: $sol-mono2 !default;
+$table-header-border:   $sol-mono1 !default;
+$table-border-color:    $sol-mono1 !default; */
+
+// My color variables
 $brand-color:           $sol-mono1 !default;
 $brand-color-light:     mix($sol-mono1, $sol-mono3) !default;
 $brand-color-dark:      $sol-mono00 !default;
@@ -59,13 +109,13 @@ $text-color:            $sol-mono01 !default;
 $background-color:      $sol-mono3 !default;
 $code-background-color: $sol-mono2 !default;
 
-$link-base-color:       $sol-blue !default;
-$link-visited-color:    mix($sol-blue, $sol-mono00) !default;
+$link-base-color:       $sol-link !default; // CHANGED
+$link-visited-color:    mix($sol-link, $sol-mono00) !default; //CHANGED
 $link-hover-color:      $sol-mono00 !default;
 
-$border-color-01:       $brand-color-light !default;
+$border-color-01:       $sol-mono1 !default;
 $border-color-02:       $sol-mono1 !default;
-$border-color-03:       $sol-mono00 !default;
+$border-color-03:       $sol-mono3 !default;
 
 $table-text-color:      $sol-mono00 !default;
 $table-zebra-color:     mix($sol-mono2, $sol-mono3) !default;
