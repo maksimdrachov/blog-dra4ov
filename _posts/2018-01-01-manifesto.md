@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Manifesto"
-author:
-- Maksim Drachov
 ---
 
 A vision. Of a place where people can come together and have meaningful conversations about the future, which is given shape by young people doing the out of ordinary, not giving in to the societal pressures of their particular time.
