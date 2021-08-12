@@ -22,6 +22,7 @@ If you're interested, you can find more on my personal Notion [page](https://yad
 [Twitter](https://twitter.com/maksimdrachov)
 [Github](https://github.com/maksimdrachov)
 [Instagram](https://www.instagram.com/dra4ov/)
+[BitClout](https://bitclout.com/u/maksimdrachov)
 [E-mail](mailto:maksim.drachov@outlook.com)
 
 
