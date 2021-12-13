@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Valgus Wallet"
+title: "light.wallet"
 ---
 
 _**A crypto hardware wallet for the next billion**_
 
 ### Introduction
 
-The idea of a hardware wallet is nothing new. There are already lots of companies operating in this domain, with [Ledger](https://www.ledger.com/) and [Trezor](https://trezor.io/) being the most well-known. However, if one takes a closer look at the products currently on the market it becomes clear that there isn't really anything that could scale to the next billion. This comes down to the following three factors: expensive, not user-friendly and not durable. The Valgus wallet offers a solution to all three problems, enabling the entrance of the next billion into safely owning and using cryptocurrencies. 
+The idea of a hardware wallet is nothing new. There are already lots of companies operating in this domain, with [Ledger](https://www.ledger.com/) and [Trezor](https://trezor.io/) being the most well-known. However, if one takes a closer look at the products currently on the market it becomes clear that there isn't really anything that could scale to the next billion of users. This comes down to the following three factors: expensive, not user-friendly and not durable. The light.wallet offers a solution to all three problems, enabling the entrance of the next billion into safely owning and using cryptocurrencies. 
 
 ### Next billion
 
@@ -77,7 +77,7 @@ The solution to this problem needs to check the following criteria/constraints:
 4. Easy-to-use: should not require any special knowledge/skills to use.
 5. KaiOS: assume that the only internet-connected device available is a KaiOS phone. [KaiOS](https://en.wikipedia.org/wiki/KaiOS) is a popular OS for (cheap) feature phones that nevertheless offer internet connectivity (and a small app store).
 
-This is how the Valgus will look like:
+This is how the light.wallet will look like:
 
 ![valgus-front-back](/images/valgus-wallet-pitch/valgus-front-back.png)
 
@@ -117,4 +117,4 @@ And last but not least, let's talk about battery life. Since there is no externa
 
 ### Conclusion
 
-The Valgus wallet offers a completely new approach to hardware wallets, with the potential to play a crucial role in the further adoption of cryptocurrencies around the world. My hope is that it can become the Nokia 3310 of hardware wallets and just as ubiquitous. I believe that by empowering everyone to become their own bank, the world will become more prosperous and fair. 
+The light.wallet offers a completely new approach to hardware wallets, with the potential to play a crucial role in the further adoption of cryptocurrencies around the world. My hope is that it can become the Nokia 3310 of hardware wallets and just as ubiquitous. I believe that by empowering everyone to become their own bank, the world will become more prosperous and fair. 
