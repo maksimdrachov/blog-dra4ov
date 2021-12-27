@@ -17,7 +17,7 @@ Belgium is a well-developed country, so it might seem like a strange choice to l
 
 - _High tax burden_
 
-For the level of service offered by the Belgian governmen, I would argue the tax burden is quite high. For example, a couple of months ago I posted the following on my LinkedIn:
+For the level of service offered by the Belgian government, I would argue the tax burden is quite high. For example, a couple of months ago I posted the following on my LinkedIn:
 
 ![linkedin](/images/moving-to-estonia/linkedin.png)
 
@@ -41,7 +41,7 @@ Finally and this is much more subtle point: there isn't really much of a culture
 
 ## Why Estonia?
 
-Given my interest for startups, I wanted to move someplace which would be more supportive of this. I started looking into all the most "popular" startup cities in Europe (didn't want to move too far from home either). This essentially boils down to the usual suspects: London, Amsterdam, Stockholm, Paris and Berlin. Unfortunately most of them are prohibitively expensive, which would mean I exchanging a high tax burden for a high cost of living, which wasn't much of an improvement either. 
+Given my interest in startups, I wanted to move someplace which would be more supportive of this. I started looking into all the most "popular" startup cities in Europe (didn't want to move too far from home either). This essentially boils down to the usual suspects: London, Amsterdam, Stockholm, Paris and Berlin. Unfortunately most of them are prohibitively expensive, which would mean exchanging a high tax burden for a high cost of living, which wasn't much of an improvement either. 
 
 However, at this point Estonia was already on my radar (thanks to [@balajis](https://twitter.com/balajis)) as a country with some very foward-thinking policies when it came to digital governance. So I decided to take it into consideration as well. The more I looked into it, the more I became convinced it was the right choice. 
 
@@ -55,9 +55,9 @@ Estonia offers the exact opposite: it minimizes the administrative hurdle by all
 
 - _Network effects_
 
-Given a favorable environment, a true startup culture can develop and as the amount of succesful startup grows, the collective experience of the ecosystem increases and odds of success increase. For the past decade Silicon Valley has been the most obvious example of this. One of the most famous "networks" within Silicon Valley is the so-called "[Paypal mafia](https://en.wikipedia.org/wiki/PayPal_Mafia)", which is a group of founders and employees affeliated with the early days of Paypal. These people gained valuable resources, knowledge and contacts from those early wins at Paypal and then leveraged this to found new startups: Tesla, Linkedin, Palantir, SpaceX, Youtube,...
+Given a favorable environment, a startup culture can develop and as the amount of succesful startup grows, the collective experience of the ecosystem increases and odds of success with it. For the past decade Silicon Valley has been the most obvious example of this. One of the most famous "networks" within Silicon Valley is the so-called "[Paypal mafia](https://en.wikipedia.org/wiki/PayPal_Mafia)", which is a group of founders and employees affeliated with the early days of Paypal. These people gained valuable resources, knowledge and contacts from those early wins at Paypal and then leveraged this towards founding new startups: Tesla, Linkedin, Palantir, SpaceX, Youtube,...
 
-Something similar can be observed with Estonia. The term "[Estonian mafia](https://www.lift99.co/walloffame)" is already starting to gain some traction, with founders and employees from companies like Skype, Bolt and Transferwise going on to found new successful startups. 
+Something similar can be observed in Estonia: the term "[Estonian mafia](https://www.lift99.co/walloffame)" is already starting to gain some traction. Founders and early employees from companies like Skype, Bolt and Transferwise are going on to start new successful companies. 
 
 - _Attraction of talent_
 
@@ -65,11 +65,11 @@ And last but not least: attraction of talent. Silicon Valley couldn't become wha
 
 E-recidency allows anyone (even non-EU!) access to the Estonian government services such as company formation, banking, payment processing and taxation. This makes attracting talent from across the globe considerably easier, especially as we move more and more towards a remote-first world. 
 
-On that second point: lots of talented programmers and engineers from Ukraine, Belarus and Russia have moved to Estonia to escape the unstable political/economical climate in their respective countries. As Estonia has a long history with Eastern Europe, it allows them to more easily incorporate these people into their cultural fold. 
+On that second point: lots of talented programmers and engineers from Ukraine, Belarus and Russia have moved to Estonia to escape the unstable political/economical climate in their respective countries. This is a massive talent pool to draw from. As Estonia has a long history with Eastern Europe, it allows them to more easily incorporate people from this cultural background into their fold. 
 
 ## Conclusion
 
-I believe that by choosing Tallinn I will be able to more quickly develop the necessary skills to grow as an engineer and eventually startup founder. Really looking forward to my move at the end of January, if you live in Tallinn and share my interest in startups: would love to have a beer! :)
+I believe that by moving to Tallinn I will be able to develop the skills to become a founder more quickly and increase the odds of my startup being successful. If you live in Tallinn and share my interest in startups: would love to have a beer! :)
 
 If you've found this interesting and want to find out more about Estonia, I can recommend the following:
 
