@@ -5,26 +5,19 @@ title: "moving to estonia"
 
 ![estonia](/images/moving-to-estonia/e-estonia.jpg)
 
-I have made the decision to move to Tallinn, Estonia. In this post I'm going to chart out my reasons for doing so.
+I have made the decision to move to Estonia. In this post I'm going to chart out my reasons.
 
-Some background: I'm 27 years old, I studied Electrical Engineering at KU Leuven, currently living in Brussels (Belgium). After finishing my studies I have worked at Nokia and then 2 startups (as an employee). The experience of working at Nokia has taught me I'm not really cut out for a big corporate structure; whereas the experience at the startups has taught me how relatively underdeveloped this field is in Belgium. 
+Some background: I'm 27 years old, studied Electrical Engineering at KU Leuven and am currently living in Belgium. Since finishing my studies I have worked at Nokia and then 2 different startups (as an early employee). 
 
-The decision to migrate always has two factors: push and pull. Push factors are the reasons why people decide to _leave_, pull factors are the reasons that _attract_ people to a certain place. Let's first look at the push factors.
+I will split up my argument into 2 parts: why I decided to leave Belgium and why I chose Estonia.
 
-## Push factors
+## Why I'm leaving
 
-**1) Ecosystem**
+Belgium is a well-developed country, so it might seem like a strange choice to leave. My reasons for leaving are probably not going to apply for most people, since they have mostly to do with my dream of becoming a startup founder. It is only taking this into account, that it becomes clear why I felt staying was not the best option.
 
-First and foremost, I think to put it mildly: Belgium's startup ecosystem is quite modest. There is a quite noticeable lack of succesful startup stories. If success breeds success, then the opposite rule seems to be working in Belgium, with many of the most entrepreneurial leaving. The one exception that should be noted is [Imec](https://www.imec-int.com/en), an R&D hub for nano- and digital technologies. This organization has succesfully spun-off multiple very startups in its specialist field. However its area of specialization is somewhat boring to me, most of their startups are lead by people with more degrees than I can count and I've never been about the academic life anyway.
+- _High tax burden_
 
-**2) Government**
-
-Belgian politics are broken at a fundamental level (and unlikely to be fixed anytime soon). I won't go into the reasons why, as this is beyond the scope of this post. This brokeness has several not so fun consequences, one of them being: high taxes for a terrible service. Take a look at this graph[^1]:
-
-![taxes](/images/moving-to-estonia/taxes.png)
-*Could this be the reason why people don't start companies in Belgium?*
-
-As you can see Belgium has the highest tax rate, now mind you I'm not _against_ taxes. At this tax rate however I do expect to get something back: an (extremely) well-functioning political organization. A couple of months ago I posted the following on my LinkedIn:
+For the level of service offered by the Belgian governmen, I would argue the tax burden is quite high. For example, a couple of months ago I posted the following on my LinkedIn:
 
 ![linkedin](/images/moving-to-estonia/linkedin.png)
 
@@ -32,39 +25,55 @@ Translation:
 
 > The link below gives a template for every kind of contract you could need as a start-up in Estonia. How come I can't find something similar for Belgium?
 
-I tagged every one of our ministers (remember: **6** governments[^2]) that could have something to do with this simple questions. 1600 people saw the post, no one cared to answer. 
+I tagged every one of our ministers (remember: 6 governments) that could have made a difference in solving this question. 1600 people saw the post, no one got back to me. 
 
-With taxes this high, and a government that clearly doesn't care about improving, I was starting to have my doubts. That's when the Belgian police came to the resque. You see, I wasn't 100% sure of leaving just _yet_, I needed that last push. 
+This might seem trivial, however to me this is part of a larger problem. The political class does not really care about improving the system. The Belgian state has become essentialy ossified in a political stalemate during the last decade or so, prohibiting any meaningful progress.
 
-I had to pick up some stuff from the office. Trying to be smart, I thought it'd be best if I went during noon, right in between the worst of the morning and evening traffic (Brussels is notorious for this). Unfortunately that day the police decided to have a strike and closed off the ring of Brussels. This led to the disastrous effect of everyone losing a couple of hours standing in traffic jams. This is when I mentally checked out; this country is clearly not heading in the right direction.
+- _Ecosystem_ 
 
-## Where to go?
+Probably in no small part due to the previous point, the Belgian startup ecosystem is quite underdeveloped. From my observation smart people do one of two things: work at large, established companies or move abroad. Belgium has 2 unicorns, the Netherlands has 12.
 
-I had accepted I wasn't going to stay, at the time I still didn't know where I would go though. I wanted it to be a city that would have a thriving startup scene, however most of the "obvious" ones are prohibitively expensive: London, Amsterdam, Stockholm, Paris. There is one however that has the reputation for being somewhat _cheap_ (although apparently that's also changing): Berlin. I'm going to be honest: I liked the idea. However as I started to look deeper into it, it didn't feel like that much of an improvement on the political front. You see Germany is notorious for its bureaucracy (read [this](https://peerrich.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh)) and as someone that wants to eventually start something myself, I wasn't looking forward to trying to explain myself in German to register my company. 
+To be fair, there is one notable exception: [Imec](https://www.imec-int.com/en), an R&D hub for nano- and digital technologies. This organization has succesfully spun-off multiple startups in its specialist field. However those are often based on specialization in a very narrow field of research. I'm more into the Silicon Valley-type of startups.
 
-That left Tallinn. Tallinn is the capital of Estonia, a country that I already had on my radar for some time (with [@balaji](https://twitter.com/balajis) mainly responsible for this). At first I wasn't _that_ exited, it seemed cold and remote and somewhat boring? That is until I started looking into it. 
+- _Culture_
 
-## Pull factors
+Finally and this is much more subtle point: there isn't really much of a culture of entrepreneurship. Most young people don't really have the ambition to start something, and prefer to focus on having a steady, safe and predictable lifestyle. Nothing wrong with that. However it's a bit tiring for a person like me, as I often feel like the only one swimming against the current.
 
-**1) Government**
+## Why Estonia?
 
-Let's start with the government, as that was my biggest gripe with Belgium. 
+Given my interest for startups, I wanted to move someplace which would be more supportive of this. I started looking into all the most "popular" startup cities in Europe (didn't want to move too far from home either). This essentially boils down to the usual suspects: London, Amsterdam, Stockholm, Paris and Berlin. Unfortunately most of them are prohibitively expensive, which would mean I exchanging a high tax burden for a high cost of living, which wasn't much of an improvement either. 
 
-One of the first websites you'll find if you google "estonia startup" is [startupestonia.ee](https://startupestonia.ee/), I invite you to visit and have a look around. I dare you to find a governmental website that looks as good and offers as much information as that one. This was the first sign that Estonia is somewhat _different_, someone in the political system obviously cared.
+However, at this point Estonia was already on my radar (thanks to [@balajis](https://twitter.com/balajis)) as a country with some very foward-thinking policies when it came to digital governance. So I decided to take it into consideration as well. The more I looked into it, the more I became convinced it was the right choice. 
 
-That website is just scratching the surface of something larger: the Estonian government puts a lot of effort into being forward-thinking and innovative. A good example is their [e-Residency](https://e-estonia.com/solutions/e-identity/e-residency/) program, which allows anyone across the globe to sign up to become a digital resident of Estonia. This gives them access to all the services a regular Estonian citizen, for example: setting up an EU company.
+Remember how Belgium had 2 unicorns? Estonia has 7. This becomes even more impressive when you consider the fact that Estonia has a population that's roughly ten times smaller. This is no accident, a place that has the highest amount of unicorns per capita in Europe, obviously must be doing _something_ right. In my opinion 3 factors play into this success: favorable environment, network-effects, attraction of talent. 
 
-[This](https://www.youtube.com/watch?v=6vJTutuWPv8) video shows a panel of people that work for the Estonian government (one of them is an engineer!) discussing what they have done and what they wish to improve in the future. If like me you're used to seeing politicians exclusively engage in mudslinging competitions, then this type of conversations are a like a breath of fresh air. 
+- _Favorable environment_
 
-**2) Ecosystem**
+While I was looking into Berlin as a candidate for my next move, I stumbled upon [this](https://peerrich.com/posts/how-i-would-start-my-next-startup-in-germany-without-a-gmbh) article. It details the hoops that a German founder has to jump through in order to start a company. In short: it's a very bureaucratic, kafka-esque experience. 
 
-If moving is the new voting, I'm voting for Estonia. 
+Estonia offers the exact opposite: it minimizes the administrative hurdle by allowing everything to be done online. Registering a company and paying taxes can all be done from your laptop. I have seen first-hand how bookkeeping can quickly become a one person job in a Belgian startup, often one of the founders needs to take care of this. This means less time spent on what's important: building. 
 
+- _Network effects_
 
+Given a favorable environment, a true startup culture can develop and as the amount of succesful startup grows, the collective experience of the ecosystem increases and odds of success increase. For the past decade Silicon Valley has been the most obvious example of this. One of the most famous "networks" within Silicon Valley is the so-called "[Paypal mafia](https://en.wikipedia.org/wiki/PayPal_Mafia)", which is a group of founders and employees affeliated with the early days of Paypal. These people gained valuable resources, knowledge and contacts from those early wins at Paypal and then leveraged this to found new startups: Tesla, Linkedin, Palantir, SpaceX, Youtube,...
 
-[^1]: https://en.wikipedia.org/wiki/Tax_rates_in_Europe#/media/File:Payroll_and_income_tax_by_country.png
+Something similar can be observed with Estonia. The term "[Estonian mafia](https://www.lift99.co/walloffame)" is already starting to gain some traction, with founders and employees from companies like Skype, Bolt and Transferwise going on to found new successful startups. 
 
-[^2]: https://en.wikipedia.org/wiki/List_of_governments_in_Belgium
+- _Attraction of talent_
 
+And last but not least: attraction of talent. Silicon Valley couldn't become what it is today if it didn't attract the brighthest from across the globe. Here again, Estonia is helped by forward-thinking policies like the [E-residency](https://www.e-resident.gov.ee/) program and its historial ties with Eastern Europe. 
+
+E-recidency allows anyone (even non-EU!) access to the Estonian government services such as company formation, banking, payment processing and taxation. This makes attracting talent from across the globe considerably easier, especially as we move more and more towards a remote-first world. 
+
+On that second point: lots of talented programmers and engineers from Ukraine, Belarus and Russia have moved to Estonia to escape the unstable political/economical climate in their respective countries. As Estonia has a long history with Eastern Europe, it allows them to more easily incorporate these people into their cultural fold. 
+
+## Conclusion
+
+I believe that by choosing Tallinn I will be able to more quickly develop the necessary skills to grow as an engineer and eventually startup founder. Really looking forward to my move at the end of January, if you live in Tallinn and share my interest in startups: would love to have a beer! :)
+
+If you've found this interesting and want to find out more about Estonia, I can recommend the following:
+
+- [startupestonia.ee](https://startupestonia.ee/): gives a very clear overview of the Estonian startup ecosystem.
+- [Startup in Estonia](https://www.youtube.com/channel/UCZqVkdpDBrkCJVqL-s-aiPA): interviews with Estonian founders. [This](https://www.youtube.com/watch?v=z-matT605ss) episode I found the most inspiring.
 
 
