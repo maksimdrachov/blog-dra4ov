@@ -5,7 +5,7 @@ title: About
 
 Hi,
 
-My name is Maksim Drachov. I live in Brussels.
+My name is Maksim Drachov. I live in Tallinn, Estonia.
 
 My main areas of interest are:
 - Embedded electronics
