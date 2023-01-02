@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>dra4ov</title>
- <link href="https://example.com/atom.xml" rel="self"/>
- <link href="https://example.com/"/>
- <updated>2022-12-31T13:17:38+02:00</updated>
- <id>https://example.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-12-31T13:22:26+02:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>2022</title>
-   <link href="https://example.com/2022/12/31/happy-new-year"/>
+   <link href="http://localhost:4000/2022/12/31/happy-new-year"/>
    <updated>2022-12-31T00:00:00+02:00</updated>
-   <id>https://example.com/2022/12/31/happy-new-year</id>
+   <id>http://localhost:4000/2022/12/31/happy-new-year</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/2022/kyiv.jpg&quot; alt=&quot;kyiv&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This past year has been unlike any other, it feels fitting to draw some conclusions and express some hopes for the future. As someone who grew up in a Russian family, it has been challenging to witness the events of this year.&lt;/p&gt;
@@ -35,9 +35,9 @@
  
  <entry>
    <title>light.terminal</title>
-   <link href="https://example.com/2022/09/01/light-terminal"/>
+   <link href="http://localhost:4000/2022/09/01/light-terminal"/>
    <updated>2022-09-01T00:00:00+03:00</updated>
-   <id>https://example.com/2022/09/01/light-terminal</id>
+   <id>http://localhost:4000/2022/09/01/light-terminal</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/light-terminal/light-terminal-header.png&quot; alt=&quot;images/light-terminal/light-terminal-header.png&quot; /&gt;
 &lt;em&gt;&lt;strong&gt;A payment terminal for light.pay&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 
@@ -73,9 +73,9 @@
  
  <entry>
    <title>light.wallet</title>
-   <link href="https://example.com/2022/08/31/light-wallet"/>
+   <link href="http://localhost:4000/2022/08/31/light-wallet"/>
    <updated>2022-08-31T00:00:00+03:00</updated>
-   <id>https://example.com/2022/08/31/light-wallet</id>
+   <id>http://localhost:4000/2022/08/31/light-wallet</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/light-wallet/light-wallet.png&quot; alt=&quot;light-wallet&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;A hardware wallet for the next billion&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -206,9 +206,9 @@
  
  <entry>
    <title>estonia: month 1</title>
-   <link href="https://example.com/2022/03/05/estonia-month-1"/>
+   <link href="http://localhost:4000/2022/03/05/estonia-month-1"/>
    <updated>2022-03-05T00:00:00+02:00</updated>
-   <id>https://example.com/2022/03/05/estonia-month-1</id>
+   <id>http://localhost:4000/2022/03/05/estonia-month-1</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/moving-to-estonia/e-estonia.jpg&quot; alt=&quot;estonia&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;It’s been roughly a month since I moved to Estonia and &lt;em&gt;boy&lt;/em&gt; what a rollercoaster of a month it has been.&lt;/p&gt;
@@ -261,9 +261,9 @@
  
  <entry>
    <title>estonia: week 1</title>
-   <link href="https://example.com/2022/02/05/estonia-week-1"/>
+   <link href="http://localhost:4000/2022/02/05/estonia-week-1"/>
    <updated>2022-02-05T00:00:00+02:00</updated>
-   <id>https://example.com/2022/02/05/estonia-week-1</id>
+   <id>http://localhost:4000/2022/02/05/estonia-week-1</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/moving-to-estonia/e-estonia.jpg&quot; alt=&quot;estonia&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;As I discussed in my previous &lt;a href=&quot;_posts/2021-12-24-moving-to-estonia.md&quot;&gt;blog&lt;/a&gt; I have decided to move to Estonia. Now it has been roughly a week that I have found myself living in this new country and it feels like a good time to reflect on how this experience has been.&lt;/p&gt;
@@ -319,9 +319,9 @@
  
  <entry>
    <title>moving to estonia</title>
-   <link href="https://example.com/2021/12/24/moving-to-estonia"/>
+   <link href="http://localhost:4000/2021/12/24/moving-to-estonia"/>
    <updated>2021-12-24T00:00:00+02:00</updated>
-   <id>https://example.com/2021/12/24/moving-to-estonia</id>
+   <id>http://localhost:4000/2021/12/24/moving-to-estonia</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/moving-to-estonia/e-estonia.jpg&quot; alt=&quot;estonia&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I have made the decision to move to Estonia. In this post I’m going to chart out my reasons.&lt;/p&gt;
